@@ -1,3 +1,2 @@
 # Obesity in the United States
-
-[Check out my Tableau Public Visualization](https://public.tableau.com/app/profile/shamiya.lin/viz/ObesityintheUnitedStates_16836050795370/Dashboard1)
+![Dashboard 1](https://github.com/shamiya829/obesity-in-the-us/assets/75193263/59059f05-20e7-43ab-85ab-958b4abd1774)
